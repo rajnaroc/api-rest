@@ -1,5 +1,5 @@
 # Api-Rest
-Proyecto de api propia con mini tienda incluidad
+Proyecto de api creada desde cero con una mini tienda 
 
 ## Tecnologías Utilizadas
 
