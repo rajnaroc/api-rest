@@ -5,7 +5,7 @@ Proyecto de api propia con mini tienda incluidad
 
 - **Lenguaje de Programación:** Python
 - **Framework:** Flask
-- **Base de Datos:** MysSQL
+- **Base de Datos:** MySQL
 - **Frontend:** Html
 - **Control de Versiones:** Git  
 
